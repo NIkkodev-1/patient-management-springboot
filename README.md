@@ -57,14 +57,25 @@ GitHub
 
 🛠 Technologies Used
 Category	Technologies
+
 Language	Java
+
 Framework	Spring Boot
+
 Architecture	Microservices
+
 API Gateway	Spring Cloud Gateway (or similar)
+
 Auth	JWT / Spring Security
+
 Inter-Service Communication	REST APIs
+
 Build Tool	Maven
+
 Testing	JUnit, Spring Test
+
 Containerization	Docker (Dockerfiles included)
+
 Deployment	Flexible for Docker / Kubernetes
+
 Version Control	Git / GitHub
